@@ -1,0 +1,49 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 1%;
+}
+
+nav {
+    height: 5%;
+}
+
+li {
+    list-style-type: none; 
+}
+
+a {
+    float: right;
+    margin: 10px;
+}
+
+.google{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25%;
+    margin-top: 10%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+}
+
+.search {
+    border: 1px solid gray;
+    padding: 15px 100px 15px 100px;
+    border-radius: 25px;
+}
+
+#border {
+    border: none;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
